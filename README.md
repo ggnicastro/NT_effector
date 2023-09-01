@@ -64,9 +64,7 @@
 		- [iCalcineirin](./alns/iCalcineurin.aln.html)  
 		- [iHD](./alns/iHD.aln.html)  
 	C. Phylogenetic Tree  
-		- [Calcineurin-CE](./tree_files/calcineurin.newick)  
-		- [HD-CE](./tree_files/hd.newick)  
-		- [PRTase-CE](./tree_files/prtase.newick)  
-		- [ORC-Cdc6](./tree_files/orc.newick)  
-	
-
+		- Calcineurin-CE [Download](./tree_files/calcineurin.newick) [view raw data](./tree_files/calcineurin_tree.html)   
+		- HD-CE [Download](./tree_files/hd.newick)  [view raw data](./tree_files/hd.tree.html)
+		- PRTase-CE [Download ](./tree_files/prtase.newick)  [view raw data](./tree_files/prtase.tree.html)
+		- ORC-Cdc6 [Download](./tree_files/orc.newick)  [view raw data](./tree_files/orc.tree.html)
