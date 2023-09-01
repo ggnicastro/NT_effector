@@ -14,7 +14,7 @@
 	 - [SFig 7 - Activity site and conserved residues from the PRTase-CE domain](./supp_images_jpeg/sup7.html)
 	 - [SFig 8 - AlphaFold confidence score for the models produced on the present work](./supp_images_jpeg/sup8.html)
 2. Supplementary Data  
-	A. Genome contextual data 
+	A. Genome contextual data  
 	- [AEP-1D](./operons/AEP1D.html)
  	- [AP-ATPase](./operons/AP-ATPase.html)
  	- [AP-GTPase](./operons/AP-GTPase.html)
