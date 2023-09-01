@@ -63,7 +63,7 @@
 		- [Pepco](./alns/pepco.aln.html)  
 		- [iCalcineirin](./alns/iCalcineurin.aln.html)  
 		- [iHD](./alns/iHD.aln.html)  
-	C. Phylogenetic Tree  
+	C. Phylogenetic Tree (Newick format) 
 		- Calcineurin-CE [Download](./tree_files/calcineurin.newick) [view raw data](./tree_files/calcineurin_tree.html)   
 		- HD-CE [Download](./tree_files/hd.newick)  [view raw data](./tree_files/hd.tree.html)  
 		- PRTase-CE [Download ](./tree_files/prtase.newick)  [view raw data](./tree_files/prtase.tree.html)  
