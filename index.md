@@ -6,15 +6,15 @@
 
 1. Supplementary Figures  
 	 - [SFig 1 - Permuted GreAB-C structure model](./supp_images_jpeg/sup1.html)
-	 - [SFigi 2 - Double PIN structure model](./supp_images_jpeg/sup2.html)
-	 - [SFig 3 - Phylogeneti tree of the Orc/Cdc6 proteins](./supp_images_jpeg/sup3.html)
+	 - [SFig 2 - Double PIN structure model](./supp_images_jpeg/sup2.html)
+	 - [SFig 3 - Phylogenetic tree of the Orc/Cdc6 proteins](./supp_images_jpeg/sup3.html)
 	 - [SFig 4 - Sequence logo of multiples Calcineurin families](./supp_images_jpeg/sup4.html)
 	 - [SFig 5 - Activity site and conserved residues from the Calcineurin-CE domain](./supp_images_jpeg/sup5.html)
 	 - [SFig 6 - Activity site and conserved residues from the HD-CE domain](./supp_images_jpeg/sup6.html)
 	 - [SFig 7 - Activity site and conserved residues from the PRTase-CE domain](./supp_images_jpeg/sup7.html)
 	 - [SFig 8 - AlphaFold confidence score for the models produced on the present work](./supp_images_jpeg/sup8.html)
 2. Supplementary Data  
-	A. Genome data  
+	A. Genome contextual data 
 	- [AEP-1D](./operons/AEP1D.html)
  	- [AP-ATPase](./operons/AP-ATPase.html)
  	- [AP-GTPase](./operons/AP-GTPase.html)
@@ -64,8 +64,8 @@
 	- [iCalcineirin](./alns/iCalcineurin.aln.html)
 	- [iHD](./alns/iHD.aln.html)  
 	C. Phylogenetic Tree
-	- [Calcineurin-CE](./tree/)
-	- [HD-CE](./tree/)
-	- [PRTase-CE](./tree/)
-	- [ORC-Cdc6](./tree/)  
+	- [Calcineurin-CE](./tree_files/calcineurin.newick)
+	- [HD-CE](./tree_files/hd.newick)
+	- [PRTase-CE](./tree_files/prtase.newick)
+	- [ORC-Cdc6](./tree_files/orc.newick)  
 
