@@ -66,5 +66,5 @@
 	C. Phylogenetic Tree (Newick format)  
 		- Calcineurin-CE [Download](./tree_files/calcineurin.newick), [view raw data](./tree_files/calcineurin_tree.html), [image](./tree_files/calcineurin_tree.svg.html)  
 		- HD-CE [Download](./tree_files/hd.newick), [view raw data](./tree_files/hd.tree.html)  
-		- PRTase-CE [Download ](./tree_files/prtase.newick), [view raw data](./tree_files/prtase.tree.html)  
+		- PRTase-CE [Download ](./tree_files/prtase.newick), [view raw data](./tree_files/prtase.tree.html)   
 		- ORC-Cdc6 [Download](./tree_files/orc.newick), [view raw data](./tree_files/orc.tree.html)  
