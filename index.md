@@ -3,6 +3,9 @@
 <p style="text-align: center;">Gianlucca G. Nicastro, A. Maxwell Burroughs, Lakshminarayan M Iyer, and L Aravind</p> 
 <p style="text-align: center;">Computational Biology Branch, Intramural Research Program, National Library of Medicine,National Institutes of Health, Bethesda, MD 20894</p> 
 
+<p align="center">
+  <img src="./Graph_abs.png" />
+</p>
 
 1. Supplementary Figures  
 	 - [SFig 1 - Permuted GreAB-C structure model](./supp_images_jpeg/sup1.html)
