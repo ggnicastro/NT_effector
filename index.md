@@ -57,7 +57,7 @@
 		- [PRTase-CE](./alns/Colored/prtase-ce.colored.aln.html)  
 		- [PUA-like-CE](./alns/Colored/PUA_like.colored.aln.html)  
 		- [iSirtuin-CE](./alns/Colored/iSirtuin_colored.aln.html)  
-		- [Calcineurin-CE+iThymidylate-synthase](./alns/Colored/Calcineurin_iTS.colored.aln.html)  
+		- [Calcineurin-CE+iThymidylate-synthase](./alns/Colored/calcineurin.iTS.colored.aln.html)  
 		- [AEP-1D](./alns/Colored/AEP_1d.colored.aln.html)  
 		- [REC+Calcineurin-CE](./alns/Colored/REC_calcineurin.colored.aln.html)  
 		- [STAS+HisKin](./alns/Colored/STAS.hisk.colored.aln.html)  
