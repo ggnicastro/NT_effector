@@ -29,7 +29,7 @@
  		- [ISOCOT](./operons/ISOCOT.html)  
  		- [MNS](./operons/MNS.html)  
  		- [NACHT](./operons/NACHT.html)  
-		- [Nadar](./operons/NADAR.html)  	
+		- [Nadar](./operons/NADAR.html)  
  		- [ORC-Cdc6(Calcineurin-CE)](./operons/orc_calcineurin.html)  
  		- [ORC-Cdc6(HD-CE)](./operons/orc_hd.html)  
  		- [ORC-Cdc6 (PRTase-CE)](./operons/orc_prtase.html)  
