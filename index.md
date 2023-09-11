@@ -7,7 +7,9 @@
   <img src="./Graph_abs.png" />
 </p>
 
-1. Supplementary Figures  
+1. Download all Supplementary files and data as one PDF file.
+     - [PDF file](./Supp_material_r.pdf)
+2. Supplementary Figures  
 	 - [SFig 1 - Permuted GreAB-C structure model](./supp_images_jpeg/sup1.html)
 	 - [SFig 2 - Double PIN structure model](./supp_images_jpeg/sup2.html)
 	 - [SFig 3 - Phylogenetic tree of the Orc/Cdc6 proteins](./supp_images_jpeg/sup3.html)
@@ -16,7 +18,7 @@
 	 - [SFig 6 - Activity site and conserved residues from the HD-CE domain](./supp_images_jpeg/sup6.html)
 	 - [SFig 7 - Activity site and conserved residues from the PRTase-CE domain](./supp_images_jpeg/sup7.html)
 	 - [SFig 8 - AlphaFold confidence score for the models produced on the present work](./supp_images_jpeg/sup8.html)
-2. Supplementary Data  
+3. Supplementary Data  
 	A. Genome contextual data  
 		- [AEP-1D](./operons/AEP1D.html)  
  		- [AP-ATPase](./operons/AP-ATPase.html)  
